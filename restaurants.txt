@@ -1,0 +1,5 @@
+Hot Tamale	Mexican	5
+Camale Malame	Indian	30
+Mallard House	New American	40
+Pita Pocket	Fast Food	15
+Quick Cup	Coffee	5
